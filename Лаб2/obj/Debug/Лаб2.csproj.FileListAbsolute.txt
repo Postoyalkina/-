@@ -1,0 +1,6 @@
+C:\Users\Анастасия\Documents\Универ\2 курс\СП и ОС\Лаб2\Лаб2\bin\Debug\Лаб2.exe.config
+C:\Users\Анастасия\Documents\Универ\2 курс\СП и ОС\Лаб2\Лаб2\bin\Debug\Лаб2.exe
+C:\Users\Анастасия\Documents\Универ\2 курс\СП и ОС\Лаб2\Лаб2\bin\Debug\Лаб2.pdb
+C:\Users\Анастасия\Documents\Универ\2 курс\СП и ОС\Лаб2\Лаб2\obj\Debug\Лаб2.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Documents\Универ\2 курс\СП и ОС\Лаб2\Лаб2\obj\Debug\Лаб2.exe
+C:\Users\Анастасия\Documents\Универ\2 курс\СП и ОС\Лаб2\Лаб2\obj\Debug\Лаб2.pdb
